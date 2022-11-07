@@ -1,4 +1,5 @@
 # Price-Alphabet-Dataset
+in this paper we gonna 
 
 - descriptions
 - sample ds
