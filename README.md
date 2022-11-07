@@ -1,5 +1,5 @@
 # Price-Alphabet-Dataset
-in this paper we gonna 
+in this paper we gonna introduce a new outstanding persian ocr dataset.
 
 - descriptions
 - sample ds
